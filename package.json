@@ -1,6 +1,6 @@
 {
   "name": "partypete25-learnstorybook-design-system",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "polished": "^3.4.2",
     "prop-types": "^15.7.2",
